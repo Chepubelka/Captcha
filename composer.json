@@ -2,6 +2,7 @@
   "name": "chepubelka/captcha",
   "type": "library",
   "description": "description",
+  "minimum-stability": "stable",
   "license": "GPL-3.0-only",
   "authors": [
     {
