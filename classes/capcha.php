@@ -22,7 +22,7 @@
                 $word .= $letter;
             }
             $_SESSION['captcha_string'] = $word;
-            imagepng($image, "image.png");
+            imagepng($image, $word.".png");
         }
     }
 ?>
